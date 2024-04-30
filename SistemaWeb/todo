@@ -1,0 +1,25 @@
+Não funciona com ID
+exemplo
+name = fname 
+nasc = fnasc
+
+para onde? -> programa.php
+de que forma -> metodo get (dados expostos, porém é mais rápido) e post (dados privados, porém é mais lento)
+
+dados -> programa.php (recebe dados formulário, processamento)
+! Manutenção dos dados
+   Silvia
+sILVIA 
+silvi2
+Silvia   
+
+Emulador de servidor (xampp) para manusear os dados (MySQL)
+
+Para chamar a função
+index.php
+index.html 
+
+Emulador de servidor
+xampp
+USBWCBSERVER
+undmp
